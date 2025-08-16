@@ -39,9 +39,13 @@ Dự đoán: Khi người dùng nhập form → Model dự đoán → Trả về
 ## 🎨 Giao diện
 🔹 Form nhập dữ liệu
 
+<img width="980" height="476" alt="image" src="https://github.com/user-attachments/assets/fe711bf7-79d7-44b8-ba8f-accd0c3e8d3f" />
+
 Người dùng nhập 4 thông số hoa Iris và bấm Dự đoán.
 
 🔹 Kết quả dự đoán
+
+<img width="937" height="793" alt="image" src="https://github.com/user-attachments/assets/4c742573-7dac-4ef4-aa98-95a7f740d8a5" />
 
 Hiển thị tên loài hoa dự đoán.
 
